@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Netflix_clone",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
